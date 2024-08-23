@@ -19,7 +19,7 @@ Avant Garde was created in response to the lack of visually intuitive, statistic
 <h2>Database Walk-Through:</h2>
 
 <p align="center">
-Dashboard Bluepring Explanation: <br/>
+Dashboard Blueprint Explanation: <br/>
 <img src="https://i.imgur.com/P36zap6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
