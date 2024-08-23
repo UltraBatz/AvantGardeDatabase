@@ -19,22 +19,20 @@ Avant Garde was created in response to the lack of visually intuitive, statistic
 <h2>Database Walk-Through:</h2>
 
 <p align="center">
-Dashboard Bluepring Explanation: 
-<br/>
-<br/>
+Dashboard Bluepring Explanation: <br/>
 <img src="https://i.imgur.com/P36zap6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard Table Of Content: <br />
+<img src="https://i.imgur.com/h9MQqpQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard Follower Growth: <br />
+<img src="https://i.imgur.com/odVU643.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard Demographics:  <br/>
+<img src="https://i.imgur.com/bHRdNL9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
