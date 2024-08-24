@@ -12,7 +12,7 @@ Full PDF file of my projects is available upon request.
 
 <h2>Table Of Content</h2>
 
-- <b>Dashboard (Demographics, Overview, Insights & Statlab (AKA Advanced Analysis)</b> 
+- <b>Dashboard (Demographics, Overview, Insights & Statlab (Advanced Analysis)</b> 
 - <b>Filter</b> 
 - <b>Content Stats</b>
 - <b>Algorithm Alchemy</b>
