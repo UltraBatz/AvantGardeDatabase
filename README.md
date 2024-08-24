@@ -1,7 +1,7 @@
 <h1>Avant Garde System</h1>
 
 <h2>Purpose</h2>
-Avant Garde was created in response to the lack of visually intuitive, statistically advanced, and transparent solutions in existing social media platforms and workout apps. In this walkthrough, we will going through step by step procedure of what the system does, how it works as well as how it can enhance a business performance in the social media world. 
+Avant Garde was created in response to the lack of visually intuitive, statistically advanced, and transparent solutions in existing social media platforms and workout apps. In this walkthrough, we will going through step by step of what the system does, how it works as well as how it can enhance a business performance in the social media world. 
 
 <h2>Platforms Used For Analysis</h2>
 We will be reviewing two popular platforms, TikTok (B2C) and LinkedIn (B2B), to explore how each platform functions and how to leverage data to enhance their performance. Be sure to check out the Data-Driven Report (Data Visualization), as it complements the Avant-Garde System. This will give you insights into how strategies are implemented.
