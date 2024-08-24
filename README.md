@@ -4,7 +4,7 @@
 Avant Garde was created in response to the lack of visually intuitive, statistically advanced, and transparent solutions in existing social media platforms and workout apps. This system fills the gap by offering users a clear view of how their posts perform across multiple insight categories, making it easier to analyze and interpret results. Since its inception in early 2023, Avant Garde has evolved through 14 versions, each introducing new insights not typically available in other data platforms. Despite these advancements, some insights—such as Categories & Subcategories, Colors, and Video Response—still require manual input. The platform is highly customizable, allowing users to tailor it to their individual needs and business strategies. This flexibility is enhanced by multiple drop-down menus with various criteria, enabling users to manipulate data easily. Additionally, the filter feature allows for quick and easy viewing of individual post rankings and insights.
 <br />
 <br />
-Full PDF file is available here to view. 
+Full PDF file of my projects is available to view in repository. 
 <br />
 
 
